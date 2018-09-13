@@ -46,7 +46,7 @@ It just take seconds to install and use WOW.js!
 
 ### Installation
 
-- Bower
+- Bowerasdasd
 
 ```bash
    bower install wowjs
